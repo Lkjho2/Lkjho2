@@ -19,6 +19,6 @@
 <div> 
   <a href="https://instagram.com/leo.luis.silv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/Lkjho2/lucpert/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Lkjho2/Lkjho2/blob/output/github-contribution-grid-snake.svg)
 
 </div>
